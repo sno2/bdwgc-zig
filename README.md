@@ -8,7 +8,7 @@
 
 ## Installation
 
-Zig 0.15 is required.
+Zig 0.16 is required.
 
 ```console
 zig fetch --save git+https://github.com/bdwgc/bdwgc-zig
